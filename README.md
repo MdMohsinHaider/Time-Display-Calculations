@@ -27,11 +27,11 @@ You can view a live demo of this project [here](<insert_live_demo_link_here>).
 
 ## Screenshots of idea 
 
-![https://chrome.google.com/webstore/detail/digital-clock-ce-7/ceppoilemjnhfdbkekhcnagmfnhokjgm?hl=en-GB](https://chrome.google.com/webstore/detail/digital-clock-ce-7/ceppoilemjnhfdbkekhcnagmfnhokjgm?hl=en-GB)
+![Screenshot]https://chrome.google.com/webstore/detail/digital-clock-ce-7/ceppoilemjnhfdbkekhcnagmfnhokjgm?hl=en-GB
 
 ## Author
 
-[Your Name](<link_to_your_portfolio_or_profile>)
+[Md Mohsin Haider](<link_to_your_portfolio_or_profile>)
 
 ## License
 
