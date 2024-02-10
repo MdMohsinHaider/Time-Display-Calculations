@@ -22,7 +22,7 @@ Simply open the `index.html` file in your web browser to view the application.
 
 ## Live Demo
 
-You can view a live demo of this project [here](<insert_live_demo_link_here>).
+You can view a live demo of this project [here](https://mdmohsinhaider.github.io/Time-Display-Calculations/).
 
 ## Screenshots of idea 
 
