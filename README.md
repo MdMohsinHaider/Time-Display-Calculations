@@ -24,6 +24,11 @@ Simply open the `index.html` file in your web browser to view the application.
 
 You can view a live demo of this project [here](https://mdmohsinhaider.github.io/Time-Display-Calculations/).
 
+## Contributing Guidelines
+Fork the Repository: Click on the "Fork" button on the top right corner of the repository's page to create your own copy of the project.
+Clone Your Fork: Clone the repository to your local machine  
+[fork](https://github.com/login?return_to=%2FMdMohsinHaider%2FTime-Display-Calculations).
+
 ## Screenshots of idea 
 
 ![Screenshot](https://chrome.google.com/webstore/detail/digital-clock-ce-7/ceppoilemjnhfdbkekhcnagmfnhokjgm?hl=en-GB)
