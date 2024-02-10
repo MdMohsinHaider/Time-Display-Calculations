@@ -31,7 +31,7 @@ You can view a live demo of this project [here](<insert_live_demo_link_here>).
 
 ## Author
 
-[Md Mohsin Haider](<link_to_your_portfolio_or_profile>)
+[Md Mohsin Haider](https://github.com/MdMohsinHaider)
 
 ## License
 
