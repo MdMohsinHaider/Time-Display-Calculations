@@ -6,7 +6,6 @@ https://mdmohsinhaider.github.io/Time-Display-Calculations/
 ```
 Certainly! Below is an example `README.md` file for a time application built using HTML, CSS, and JavaScript. Additionally, I'll provide steps to host the project live and obtain a link.
 
-```markdown
 # Time Application
 
 This is a simple time application built using HTML, CSS, and JavaScript.
@@ -36,7 +35,7 @@ You can view a live demo of this project [here](<insert_live_demo_link_here>).
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
 
 To host your project live, you can use platforms like GitHub Pages, Netlify, or Vercel. Here's a brief guide on using GitHub Pages:
 
