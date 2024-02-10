@@ -26,7 +26,7 @@ You can view a live demo of this project [here](https://mdmohsinhaider.github.io
 
 ## Screenshots of idea 
 
-![Screenshot]https://chrome.google.com/webstore/detail/digital-clock-ce-7/ceppoilemjnhfdbkekhcnagmfnhokjgm?hl=en-GB
+![Screenshot](https://chrome.google.com/webstore/detail/digital-clock-ce-7/ceppoilemjnhfdbkekhcnagmfnhokjgm?hl=en-GB)
 
 ## Author
 
